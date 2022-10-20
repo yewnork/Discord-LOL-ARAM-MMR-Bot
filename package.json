@@ -1,0 +1,19 @@
+{
+  "name": "aram-bot-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YewNork",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.6.0",
+    "node-fetch": "^2.6.7"
+  }
+}
