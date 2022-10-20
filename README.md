@@ -10,7 +10,7 @@ You are able to run a node.js application with your enviornment and you are fami
     Some help could be found at: https://discord.com/developers/docs/getting-started#creating-an-app
 - Obtain your Client Secret for this app
 - Update 'token' in default-config.json with your secret key
-- Rename default-config.jsoln to config.json
+- Rename default-config.json to config.json
 
 Install the dependencies and devDependencies and start the server.
 ```sh
